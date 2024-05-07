@@ -1,0 +1,73 @@
+@font-face {
+    font-family: p;
+    src: url(./p.ttf);
+}
+
+body {
+    background-color: rgb(0, 206, 206);
+}
+
+.contayner {
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.box_1 {
+    width: 300px;
+    height: 70px;
+
+    border-radius: 10px 40px 10px 10px;
+
+}
+
+.box_2 {
+    width: 300px;
+    height: 70px;
+    background-color: #d8d8d8;
+    border-radius: 10px 40px 10px 10px;
+    margin-top: 100px;
+    border: 1px black solid;
+}
+
+.box_3 {
+    width: 300px;
+    height: 70px;
+    background-color: #d8d8d8;
+    border-radius: 10px 40px 10px 10px;
+    margin-top: -70px;
+    margin-left: 300px;
+    border: 1px black solid;
+}
+
+.box_4 {
+    width: 300px;
+    height: 70px;
+    background-color: #d8d8d8;
+    border-radius: 10px 40px 10px 10px;
+    margin-top: -70px;
+    margin-left: 600px;
+    border: 1px black solid;
+}
+
+.box_5 {
+    width: 300px;
+    height: 70px;
+    background-color: #d8d8d8;
+    border-radius: 10px 40px 10px 10px;
+    margin-top: -70px;
+    margin-left: 900px;
+    border: 1px black solid;
+
+}
+
+p {
+    font-family: p;
+    color: #909090;    
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+i {
+
+}
